@@ -1,0 +1,17 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+bin/
+.sbtserver/
+project/.sbtserver.lock
+project/.sbtserver
+libexec/
+.cache-main
+activator
+activator.bat
+.cache-tests
